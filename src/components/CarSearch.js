@@ -1,5 +1,5 @@
 function CarSearch() {
-  return <div>Hi!</div>;
+  return <div>CarSearch</div>;
 }
 
 export default CarSearch;

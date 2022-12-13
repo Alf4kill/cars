@@ -1,5 +1,5 @@
 function CarForms() {
-  return <div>Hi!</div>;
+  return <div>CarForms</div>;
 }
 
 export default CarForms;
